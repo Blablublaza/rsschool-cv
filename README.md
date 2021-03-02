@@ -1,1 +1,1 @@
-https://blablublaza.github.io/rsschool-cv/cv.md
+https://blablublaza.github.io/rsschool-cv/cv
